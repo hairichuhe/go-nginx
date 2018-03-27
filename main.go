@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "caddy-token"
+	_ "github.com/hairichuhe/caddy-token"
 
 	"github.com/mholt/caddy/caddy/caddymain"
 )
